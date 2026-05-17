@@ -10,7 +10,7 @@ Program link: https://www.devweekends.com/dsoc/
 - Website: voiceybill.com
 - GitHub: github.com/voiceyBill
 - Total features proposed: 7
-- Tech stack: TypeScript, React 19, React Native (Expo), Express, MongoDB, Open AI
+- Tech stack: TypeScript, React 19, React Native (Expo), Express, MongoDB, OpenAI
 
 ## About VoiceyBill
 
