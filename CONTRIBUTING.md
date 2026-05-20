@@ -34,6 +34,7 @@ If your issue does not fit any of those templates, open a blank issue and descri
 - Include a screenshot, GIF, or short recording for anything visual or hard to explain in text
 - Link a related issue when the report is a follow-up
 - Review [ideas.md](ideas.md) before proposing new features to avoid duplicates
+- Do not start working on any issue without commenting on it first and being assigned. PRs for unassigned issues will be closed
 
 
 ## Pull requests
@@ -90,6 +91,7 @@ Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
 ## Contributor checklist
 
+- [ ] Commented on the issue and was assigned before starting work
 - [ ] Correct issue template used, or blank issue with clear description
 - [ ] Issue is focused on one topic
 - [ ] PR template fully completed with no sections left empty
